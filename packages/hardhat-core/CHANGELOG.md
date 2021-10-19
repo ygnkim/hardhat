@@ -1,5 +1,11 @@
 # hardhat
 
+## 2.6.7
+
+### Patch Changes
+
+- 3032c374: Fix `eth_feeHistory` computation (issue #1848)
+
 ## 2.6.6
 
 ### Patch Changes

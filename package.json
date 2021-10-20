@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "version": "0.0.0",
+  "name": "hardhat",
+  "version": "2.6.6",
   "author": "Nomic Labs LLC",
   "license": "SEE LICENSE IN EACH PACKAGE'S LICENSE FILE",
   "private": true,
